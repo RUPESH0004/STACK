@@ -9,6 +9,7 @@ int main() {
     myStack.push(10);
     myStack.push(20);
     myStack.push(30);
+    myStack.push(40);
 
     // Print the top element of the stack
     std::cout << "Top element: " << myStack.top() << std::endl;
